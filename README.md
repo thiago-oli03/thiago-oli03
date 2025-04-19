@@ -1,4 +1,4 @@
-- Olá, meu nome é Thiago e eu sou um universitário de 19 anos.
+- Olá, meu nome é Thiago e sou um universitário de 19 anos.
 - Estou atualmente aprendendo Python.
 - Meus pronomes são Ele/Elu
 
